@@ -1252,7 +1252,7 @@ vendor/lib/libqmi_common_so.so|81861195c68aa8661069fbeff15237950e3730c4
 vendor/lib/libqmi_csi.so|0703a03c30e83bec7e301c106288733212e406ae
 vendor/lib/libqmi_encdec.so|4a4c074236fa243415a051a7aa989070ee5dd835
 vendor/lib/libqmi.so|ea824bffd2d9339df30e42331b264a501762345f
-vendor/lib/libqmiservices.so|df4d749135195afb7e7ebe0710bb40a1d41b1ef9
+-vendor/lib/libqmiservices.so|df4d749135195afb7e7ebe0710bb40a1d41b1ef9
 vendor/lib64/libdiag.so|aac6690465739058ebb06fceaa79852d1532a1bb
 vendor/lib64/libdsutils.so|7750390597f4a3902db88526d35bac82ab7c68c8
 -vendor/lib64/libidl.so|236eff0c7ac2fd9dfaad9f09638d4648331cba3e
@@ -1266,7 +1266,7 @@ vendor/lib64/libqmi_common_so.so|e2cd492da985d44db4041797c868e431b0ff3581
 vendor/lib64/libqmi_csi.so|43916482f379b37a24b9ea704248fd7a1ffb2cf7
 vendor/lib64/libqmi_encdec.so|bfcab8d3b76b009e344dd943b6596f2b4db05631
 vendor/lib64/libqmi.so|244f360a868df7d2e4029d617e4656c344d47dd8
-vendor/lib64/libqmiservices.so|5ecf57390ab66b8ebbcd1dbd3869422b5924a9ad
+-vendor/lib64/libqmiservices.so|5ecf57390ab66b8ebbcd1dbd3869422b5924a9ad
 
 # Radio - from MI 8 Lite platina-user 9 PKQ1.181007.001 8.12.13 release-keys
 -app/datastatusnotification/datastatusnotification.apk|ceafcce87298531a3adb13a87709a1fd65291625
