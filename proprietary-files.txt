@@ -892,7 +892,7 @@ etc/permissions/com.qti.dpmframework.xml|36b94c9338069e434b83359a92cdc7ff62b822d
 etc/permissions/dpmapi.xml|ded29f9befaef20a7ccee0c75427fda1d1d04890
 framework/com.qti.dpmframework.jar|4a48456f8ed4b751135b05a99f273996bf35fd9c
 framework/dpmapi.jar|66a30e2752b058f6f522721ef6b5efb4c747f7ed
-framework/tcmclient.jar|91b415288494fa208b5f5ec9fafa33c47e569c96
+-framework/tcmclient.jar|91b415288494fa208b5f5ec9fafa33c47e569c96
 -priv-app/dpmserviceapp/dpmserviceapp.apk|a642336052f3e5d70580700e2aebba230a5f663f
 lib64/com.qualcomm.qti.dpm.api@1.0.so|2af88934e4039edaac842576a1861cbdfe39838b
 lib64/libdiag_system.so|6853c02e05edcb4e6607f2668055ab1b86ce973e
