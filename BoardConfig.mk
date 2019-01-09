@@ -180,9 +180,6 @@ DEVICE_MATRIX_FILE   := $(DEVICE_PATH)/compatibility_matrix.xml
 # Init
 TARGET_PLATFORM_DEVICE_BASE := /devices/soc.0/
 
-# IPA
-USE_DEVICE_SPECIFIC_DATA_IPA_CFG_MGR := true
-
 # Keystore
 TARGET_PROVIDES_KEYMASTER := true
 
