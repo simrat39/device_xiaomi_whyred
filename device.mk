@@ -1,4 +1,4 @@
-# 
+#
 # Copyright (C) 2018 The Mokee Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -285,7 +285,7 @@ PRODUCT_COPY_FILES += \
 # IRSC
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/sec_config:$(TARGET_COPY_OUT_VENDOR)/etc/sec_config
-    
+
 # Keylayouts
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/keylayout/sdm660-snd-card_Button_Jack.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/sdm660-snd-card_Button_Jack.kl \
@@ -408,11 +408,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     imsvideocodec_shim \
     libMiWatermark_shim
-
-# Soong
-PRODUCT_BOARD_PLATFORM := sdm660
-PRODUCT_USES_QCOM_HARDWARE := true
-PRODUCT_SOONG_NAMESPACES += $(LOCAL_PATH)
 
 # Telephony
 PRODUCT_PACKAGES += \
