@@ -38,6 +38,8 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 TARGET_VENDOR := Xiaomi
 
+TARGET_BOOTLEG_ARCH := arm64
+
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE="whyred" \
     PRODUCT_NAME="whyred" \
